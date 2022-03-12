@@ -20,7 +20,7 @@ main{
   width: 100%;
   margin: 0px;
   z-index: 99;
-
+  user-select: none;
   padding: 100px 0px;
   color: rgb(221 218 241);
   font-family: 'Roboto Mono', monospace;
